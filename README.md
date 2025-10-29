@@ -1,9 +1,6 @@
 ### Hi people/robots 👋
 
-- 🔭 I’m currently working on QA Automation Tester
-- 🌱 I’m currently learning JS 
-- 👯 I’m looking to collaborate on Automation Testing
-- 🤔 I’m looking for help with JS, continuous integration, test analysis and test pattern
+- 🔭 I’m currently working on QA Automation Tester, learning JS, Python, Machine Learning and looking to collaborate on Automation Testing worldwide.
 - ⚡ Fun fact: I'm a novice poet, see more on my instagram @cecchettisilva
 
 <div align="center">
